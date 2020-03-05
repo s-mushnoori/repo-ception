@@ -24,7 +24,7 @@ As much as I strive for perfection in some areas of my life, I still try to adhe
 |Project|Algorithm|Description|Result|
 |:--:|:--|:--|:--|
 |[predicting-breast-cancer](https://github.com/s-mushnoori/predicting-breast-cancer)|Support Vector Machines|Developed a classification model to identify breast cancer patients using SVM|Used SVM and GridSearchCV to achieve accuracy of 96%|
-|[titanic](https://github.com/s-mushnoori/titanic)|Linear Regression, Random Forest|Developed classification models on the famous titanic dataset to figure predict which passengers survived|Achieved 85% and 82% accuracy using Logistic Regression and Random Forest respectively|
+|[titanic](https://github.com/s-mushnoori/titanic)|Logistic Regression, Random Forest|Developed classification models on the famous titanic dataset to figure predict which passengers survived|Achieved 85% and 82% accuracy using Logistic Regression and Random Forest respectively|
 |[loan-repayment](https://github.com/s-mushnoori/loan-repayment)|Random Forest|Developed a predicive model on data from Lending Club to identifiy borrowers less likely to repay loans|Trained and tuned a random forest model to achieve ~84% accuracy|
 |[predicting-diabetes](https://github.com/s-mushnoori/predicting-diabetes)|k-Nearest Neighbors|Explored a medical dataset and trained a classification model to predict patients with diabetes|Trained and tuned KN model to achieve ~75% accuracy|
 |[knn-project](https://github.com/s-mushnoori/knn-project)|k-Nearest Neighbors|Explored a dataset of unknown features and trained a classification model|Trained and tuned KNN model to achieve ~83% accuracy|
