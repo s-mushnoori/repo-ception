@@ -6,8 +6,7 @@ This is a list of all my complete and ongoing data science projects, from most r
 
 ---
 ## Table of Contents
-- End-to-End Projects
-  -
+
 - Learning Projects
   - Machine Learning (sklearn)
   - Data Preparation / Data Visualization
