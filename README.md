@@ -7,6 +7,7 @@ ___
 ## Table of Contents
 
 * End-to-End Projects
+  * Predicting Pancreatic Cancer (Ongoing)
   
 * Learning Projects
   * Machine Learning (sklearn)
