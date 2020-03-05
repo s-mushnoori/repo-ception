@@ -1,7 +1,7 @@
 # repo-ception
 
 ## About
-This is a list of all my complete and ongoing data science projects, from most recent to oldest. Since these are prsented in reverse order of completeion, they also show (in reverse!) how I progressed from beginner to more advanced projects in the field.
+This is a list of all my complete and ongoing data science projects, from most recent to oldest. Since these are presented in reverse order of completeion, they also show (in reverse!) how I progressed from beginner to more advanced projects in the field.
 
 ___
 ## Table of Contents
