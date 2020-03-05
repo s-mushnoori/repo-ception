@@ -4,14 +4,14 @@ A repo of all my repos.
 ## About
 This is a list of all my complete and ongoing data science projects, from most recent to oldest. Since these are prsented in reverse order of completeion, they also show (in reverse!) how I progressed from beginner to more advanced projects in the field.
 
----
+___
 ## Table of Contents
 
-- End-to-End Projects
-  -
-- Learning Projects
-  - Machine Learning (sklearn)
-  - Data Preparation / Data Visualization
+* End to End Projects
+  
+* Learning Projects
+  * Machine Learning (sklearn)
+  * Data Preparation / Data Visualization
 ___
 ## End-to-End Projects
 
