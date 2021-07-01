@@ -23,12 +23,12 @@ As much as I strive for perfection in some areas of my life, I still try to adhe
 #### Machine Learning (sklearn)
 |Project|Code|Algorithm|Description|Result|
 |:--:|:--|:--|:--|:--|
-|[predicting-breast-cancer](https://github.com/s-mushnoori/predicting-breast-cancer)|[Code]()|Support Vector Machines|Developed a classification model to identify breast cancer patients using SVM|Used SVM and GridSearchCV to achieve _accuracy of 96%_|
-|[titanic](https://github.com/s-mushnoori/titanic)|[Code]()|Logistic Regression, Random Forest|Developed classification models on the famous titanic dataset to figure predict which passengers survived|Achieved _85% and 82% accuracy_ using Logistic Regression and Random Forest respectively|
-|[loan-repayment](https://github.com/s-mushnoori/loan-repayment)|[Code]()|Random Forest|Developed a predicive model on data from Lending Club to identifiy borrowers less likely to repay loans|Trained and tuned a random forest model to achieve _~84% accuracy_|
-|[predicting-diabetes](https://github.com/s-mushnoori/predicting-diabetes)|[Code]()|k-Nearest Neighbors|Explored a medical dataset and trained a classification model to predict patients with diabetes|Trained and tuned KNN model to achieve _~75% accuracy_|
-|[knn-project](https://github.com/s-mushnoori/knn-project)|[Code]()|k-Nearest Neighbors|Explored a dataset of unknown features and trained a classification model|Trained and tuned KNN model to achieve _~83% accuracy_|
-|[boston-housing](https://github.com/s-mushnoori/boston-housing)|[Code]()|Linear Regression|Explored a Boston housing dataset: Performed basic feature engineering, and predictive modelling|-|
+|[predicting-breast-cancer](https://github.com/s-mushnoori/predicting-breast-cancer)|[Link](https://github.com/s-mushnoori/predicting-breast-cancer/blob/master/predicting-breast-cancer.ipynb)|Support Vector Machines|Developed a classification model to identify breast cancer patients using SVM|Used SVM and GridSearchCV to achieve _accuracy of 96%_|
+|[titanic](https://github.com/s-mushnoori/titanic)|[Link](https://github.com/s-mushnoori/titanic/blob/master/titanic.ipynb)|Logistic Regression, Random Forest|Developed classification models on the famous titanic dataset to figure predict which passengers survived|Achieved _85% and 82% accuracy_ using Logistic Regression and Random Forest respectively|
+|[loan-repayment](https://github.com/s-mushnoori/loan-repayment)|[Link](https://github.com/s-mushnoori/loan-repayment/blob/master/loan-repayment.ipynb)|Random Forest|Developed a predicive model on data from Lending Club to identifiy borrowers less likely to repay loans|Trained and tuned a random forest model to achieve _~84% accuracy_|
+|[predicting-diabetes](https://github.com/s-mushnoori/predicting-diabetes)|[Link](https://github.com/s-mushnoori/predicting-diabetes/blob/master/predicting-diabetes.ipynb)|k-Nearest Neighbors|Explored a medical dataset and trained a classification model to predict patients with diabetes|Trained and tuned KNN model to achieve _~75% accuracy_|
+|[knn-project](https://github.com/s-mushnoori/knn-project)|[Link](https://github.com/s-mushnoori/knn-project/blob/master/knn-project.ipynb)|k-Nearest Neighbors|Explored a dataset of unknown features and trained a classification model|Trained and tuned KNN model to achieve _~83% accuracy_|
+|[boston-housing](https://github.com/s-mushnoori/boston-housing)|[Link](https://github.com/s-mushnoori/boston-housing/blob/master/Boston%20Housing_Linear%20Regression.ipynb)|Linear Regression|Explored a Boston housing dataset: Performed basic feature engineering, and predictive modelling|-|
 
 #### Data Preparation / Data Visulization
 |Project|Description|
