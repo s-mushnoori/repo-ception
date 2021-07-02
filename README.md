@@ -18,7 +18,7 @@ ___
 ___
 
 ## Learning Projects
-As much as I strive for perfection in some areas of my life, I still try to adhere to the philosphy of learning by doing. These projects are meant to explore a few concepts at a time to develop an intuitive undrstanding of how certain algorithms or concepts work. In some cases, I may revisit older projects and apply some additional ideas to them.
+These projects are meant to explore a few concepts at a time to develop an intuitive undrstanding of how certain algorithms or concepts work. In some cases, I may revisit older projects and apply some additional ideas to them.
 
 #### Machine Learning (sklearn)
 |Project|Code|Algorithm|Description|Result|
