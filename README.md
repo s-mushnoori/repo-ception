@@ -7,7 +7,7 @@ ___
 ## Table of Contents
 
 * End-to-End Projects
-  * Predicting Pancreatic Cancer (Ongoing)
+  * Predicting Pancreatic Cancer
   
 * Learning Projects
   * Machine Learning (sklearn)
@@ -16,7 +16,7 @@ ___
 ## End-to-End Projects
 |Project |Code|Domain|Description|Result|
 |:--:|:--|:--|:--|:--|
-|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|[Code](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)|Healthcare - Oncology|Visualized and analyzed spectroscopy data from mouse models to predict pre-pancreatic cancer samples from control|Achieved a prediction _accuracy of 62%_ |
+|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|[Link](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)|Healthcare - Oncology|Visualized and analyzed spectroscopy data from mouse models to predict pre-pancreatic cancer samples from control|Achieved a prediction _accuracy of 62%_ |
 ___
 
 ## Learning Projects
