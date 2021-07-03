@@ -16,7 +16,7 @@ ___
 ## End-to-End Projects
 |Project |Code|Domain|Description|Result|
 |:--:|:--|:--|:--|:--|
-|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|[Link](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)|Healthcare - Oncology|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Achieved a prediction _accuracy of 62%_ |
+|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|[Link](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)|Healthcare - Oncology|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Identified cancer samples with a prediction accuracy of _62%_ |
 ___
 
 ## Learning Projects
@@ -33,9 +33,9 @@ These projects are meant to explore a few concepts at a time to develop an intui
 |[boston-housing](https://github.com/s-mushnoori/boston-housing)|[Link](https://github.com/s-mushnoori/boston-housing/blob/master/Boston%20Housing_Linear%20Regression.ipynb)|Linear Regression|Explored a Boston housing dataset: Performed basic feature engineering, and predictive modelling|-|
 
 #### Data Preparation / Data Visulization
-|Project|Description|
-|:--:|:--|
-|[mental-health-in-tech](https://github.com/s-mushnoori/mental-health-in-tech)|Visualized survey data on mental health in the workplace|
-|[high-school-sat-scores](https://github.com/s-mushnoori/high-school-sat-scores)|Combined and cleaned several datasets; visualized SAT scores by region|
-|[visualizing-earnings](https://github.com/s-mushnoori/visualizing-earnings)|Visualized earnings based on college major|
-|[visualizing-gender-gap](https://github.com/s-mushnoori/visualizing-gender-gap)|Visualized the gender gap in different fields|
+|Project|Code|Description|
+|:--:|:--|:--|
+|[mental-health-in-tech](https://github.com/s-mushnoori/mental-health-in-tech)|[Link](https://github.com/s-mushnoori/mental-health-in-tech/blob/master/00_Cleaning_and_Visualization.ipynb)|Visualized survey data on mental health in the workplace|
+|[high-school-sat-scores](https://github.com/s-mushnoori/high-school-sat-scores)|[Link](https://github.com/s-mushnoori/high-school-sat-scores/blob/master/00_Cleaning%26Visualization.ipynb)|Combined and cleaned several datasets; visualized SAT scores by region|
+|[visualizing-earnings](https://github.com/s-mushnoori/visualizing-earnings)|[Link](https://github.com/s-mushnoori/visualizing-earnings/blob/master/00_Visualization.ipynb)|Visualized earnings based on college major|
+|[visualizing-gender-gap](https://github.com/s-mushnoori/visualizing-gender-gap)|[Link](https://github.com/s-mushnoori/visualizing-gender-gap/blob/master/00_Visualization.ipynb)|Visualized the gender gap in different fields|
