@@ -14,7 +14,7 @@ ___
   * Data Preparation / Data Visualization
 ___
 ## End-to-End Projects
-|Project|Code|Domain|Description|Result|
+|Project |Code|Domain|Description|Result|
 |:--:|:--|:--|:--|:--|
 |[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|[Code](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)|Healthcare - Oncology|Visualized and analyzed spectroscopy data from mouse models to predict pre-pancreatic cancer samples from control|Achieved a prediction _accuracy of 62%_ |
 ___
@@ -23,7 +23,7 @@ ___
 These projects are meant to explore a few concepts at a time to develop an intuitive undrstanding of how certain algorithms or concepts work. In some cases, I may revisit older projects and apply some additional ideas to them.
 
 #### Machine Learning (sklearn)
-|Project|Code|Algorithm|Description|Result|
+|Project |Code|Algorithm|Description|Result|
 |:--:|:--|:--|:--|:--|
 |[predicting-breast-cancer](https://github.com/s-mushnoori/predicting-breast-cancer)|[Link](https://github.com/s-mushnoori/predicting-breast-cancer/blob/master/predicting-breast-cancer.ipynb)|Support Vector Machines|Developed a classification model to identify breast cancer patients using SVM|Used SVM and GridSearchCV to improve prediction accuracy from _64% to 96%_|
 |[titanic](https://github.com/s-mushnoori/titanic)|[Link](https://github.com/s-mushnoori/titanic/blob/master/titanic.ipynb)|Logistic Regression, Random Forest|Developed classification models on the famous titanic dataset to figure predict which passengers survived|Achieved _82% accuracy_ using Logistic Regression and Random Forest|
