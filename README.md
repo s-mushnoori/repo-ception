@@ -16,7 +16,7 @@ ___
 ## End-to-End Projects
 |Project |Domain|Description|Result|
 |:--:|:--|:--|:--|
-|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer) [[Link to code](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)]|Healthcare - Oncology|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Identified cancer samples with a prediction accuracy of _62%_ |
+|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer) \n [[Link to code](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)]|Healthcare - Oncology|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Identified cancer samples with a prediction accuracy of _62%_ |
 ___
 
 ## Learning Projects
