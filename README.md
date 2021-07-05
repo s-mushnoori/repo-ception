@@ -18,7 +18,7 @@ ___
 |Project|Code|Domain|Description|Result|
 |:--:|:--|:--|:--|:--|
 |[pancreatic-cancer-2](https://github.com/s-mushnoori/pancreatic-cancer-2)|[Link](https://github.com/s-mushnoori/pancreatic-cancer-2/blob/main/pancreatic-cancer-2.ipynb)|Healthcare (Oncology)|Analyzed data from urine samples to detect pancreatic cancer|(Ongoing)|
-|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|[Link](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)|Healthcare (Oncology)|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Identified cancer samples with a prediction accuracy of _62%_ |
+|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|[Link](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)|Healthcare (Oncology)|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Improved prediction accuracy of cancer samples from _62% to 73%_ through  stratification and cross validation|
 ___
 
 ## Learning Projects
