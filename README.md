@@ -7,7 +7,8 @@ ___
 ## Table of Contents
 
 * End-to-End Projects
-  * Predicting Pancreatic Cancer
+  * Predicting Pancreatic Cancer from Biomarkers in Urine Samples
+  * Predicting Pancreatic Cancer from Spectroscopy Data
   
 * Learning Projects
   * Machine Learning (sklearn)
