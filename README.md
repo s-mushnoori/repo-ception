@@ -24,6 +24,10 @@ ___
 ## Learning Projects
 These projects are meant to explore a few concepts at a time to develop an intuitive undrstanding of how certain algorithms or concepts work. In some cases, I may revisit older projects and apply some additional ideas to them.
 
+#### Deep Learning
+|Project |Code|Algorithm|Description|Result|
+|:--:|:--|:--|:--|:--|
+
 #### Machine Learning (sklearn)
 |Project |Code|Algorithm|Description|Result|
 |:--:|:--|:--|:--|:--|
