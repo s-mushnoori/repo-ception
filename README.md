@@ -27,6 +27,7 @@ These projects are meant to explore a few concepts at a time to develop an intui
 #### Deep Learning
 |Project |Code|Algorithm|Description|Result|
 |:--:|:--|:--|:--|:--|
+|[lending-club](https://github.com/s-mushnoori/lending-club)|[Link](https://github.com/s-mushnoori/lending-club/blob/main/lending_club.ipynb)|ANN|Developed an ANN to predict if a borrowwer will successfully repay a loan||
 
 #### Machine Learning (sklearn)
 |Project |Code|Algorithm|Description|Result|
