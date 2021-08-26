@@ -15,10 +15,11 @@ ___
   * Data Preparation / Data Visualization
 ___
 ## End-to-End Projects
-|Project|Code|Domain|Description|Result|Project Features|
+Each new end-to-end project will feature some new idea or feature (indicated in t he 'Project Features'  column) that I will incorporate in all future projects.
+|Project|Type|Domain|Description|Result|Project Features|
 |:--:|:--|:--|:--|:--|:--|
-|[pancreatic-cancer-2](https://github.com/s-mushnoori/pancreatic-cancer-2)|[Link](https://github.com/s-mushnoori/pancreatic-cancer-2/blob/main/pancreatic-cancer-2.ipynb)|Healthcare (Oncology)|Analyzed data from urine samples to detect pancreatic cancer|Improved classification _recall score_ of cancer samples from _65% to 75%_||
-|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|[Link](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer/blob/master/diagnosing-pancreatic-cancer.ipynb)|Healthcare (Oncology)|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Improved classification _accuracy_ of cancer samples _from 64% to 73%_ and _recall from 50% to 69%_||
+|[pancreatic-cancer-2](https://github.com/s-mushnoori/pancreatic-cancer-2)|Classification|Healthcare (Oncology)|Analyzed data from urine samples to detect pancreatic cancer|Improved classification _recall score_ of cancer samples from _65% to 75%_||
+|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|Classification|Healthcare (Oncology)|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Improved classification _accuracy_ of cancer samples _from 64% to 73%_ and _recall from 50% to 69%_||
 ___
 
 ## Learning Projects
