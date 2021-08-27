@@ -15,15 +15,15 @@ ___
   * Data Preparation / Data Visualization
 ___
 ## End-to-End Projects
-Each new end-to-end project will feature some new idea or feature (indicated in t he 'Project Features'  column) that I will incorporate in all future projects.
+Each new end-to-end project will feature some new idea or feature (indicated in the 'Project Features'  column) that I will incorporate in future projects where applicable.
 |Project|Type|Domain|Description|Result|Project Features|
 |:--:|:--|:--|:--|:--|:--|
-|[pancreatic-cancer-2](https://github.com/s-mushnoori/pancreatic-cancer-2)|Classification|Healthcare (Oncology)|Analyzed data from urine samples to detect pancreatic cancer|Improved classification _recall score_ of cancer samples from _65% to 75%_||
+|[pancreatic-cancer-2](https://github.com/s-mushnoori/pancreatic-cancer-2)|Classification|Healthcare (Oncology)|Analyzed data from urine samples to detect pancreatic cancer|Improved classification _recall score_ of cancer samples from _65% to 75%_|Pipelines for model creation|
 |[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|Classification|Healthcare (Oncology)|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Improved classification _accuracy_ of cancer samples _from 64% to 73%_ and _recall from 50% to 69%_||
 ___
 
 ## Learning Projects
-These projects are meant to explore a few concepts at a time to develop an intuitive undrstanding of how certain algorithms or concepts work. In some cases, I may revisit older projects and apply some additional ideas to them.
+These projects are meant to explore a few concepts at a time to develop an intuitive understanding of how certain algorithms or concepts work. In some cases, I may revisit older projects and apply some additional ideas to them.
 
 #### Deep Learning
 |Project |Code|Algorithm|Description|Result|
