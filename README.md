@@ -18,6 +18,7 @@ ___
 Each new end-to-end project will feature some new idea or feature (indicated in the 'Project Features'  column) that I will incorporate in future projects where applicable.
 |Project|Type|Domain|Description|Result|Project Features|
 |:--:|:--|:--|:--|:--|:--|
+|[ames-housing](https://github.com/s-mushnoori/ames-housing)|Regression|Real Estate|Predicted house sale price based on ~80 features|_Ongoing_|OOP, modular code, pipelines for preprocessing and model creation|
 |[pancreatic-cancer-2](https://github.com/s-mushnoori/pancreatic-cancer-2)|Classification|Healthcare (Oncology)|Analyzed data from urine samples to detect pancreatic cancer|Improved classification _recall score_ of cancer samples from _65% to 75%_|Pipelines for model creation|
 |[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|Classification|Healthcare (Oncology)|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Improved classification _accuracy_ of cancer samples _from 64% to 73%_ and _recall from 50% to 69%_||
 ___
