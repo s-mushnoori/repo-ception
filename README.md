@@ -7,6 +7,7 @@ ___
 ## Table of Contents
 
 * End-to-End Projects
+  * Predicting House Sale Prices 
   * Predicting Pancreatic Cancer from Biomarkers in Urine Samples
   * Predicting Pancreatic Cancer from Spectroscopy Data
   
