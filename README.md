@@ -1,7 +1,7 @@
 # repo-ception
 
 ## About
-This is a list of all my complete and ongoing data science projects, from most recent to oldest. Since these are presented in reverse order of completeion, they also show (in reverse!) how I progressed from beginner to more advanced projects in the field.
+This is a list of all my complete and ongoing data science projects, from most recent to oldest. 
 
 ___
 ## Table of Contents
@@ -12,6 +12,7 @@ ___
   * Predicting Pancreatic Cancer from Spectroscopy Data
   
 * Learning Projects
+  * Deep Learning (Keras)
   * Machine Learning (sklearn)
   * Data Preparation / Data Visualization
 ___
