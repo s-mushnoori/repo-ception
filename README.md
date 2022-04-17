@@ -7,6 +7,7 @@ ___
 ## Table of Contents
 
 * End-to-End Projects
+  * Calculating Collateral Floor Price of NFTs
   * Predicting House Sale Prices 
   * Predicting Pancreatic Cancer from Biomarkers in Urine Samples
   * Predicting Pancreatic Cancer from Spectroscopy Data
@@ -17,12 +18,17 @@ ___
   * Data Preparation / Data Visualization
 ___
 ## End-to-End Projects
-Each new end-to-end project will feature some new idea or feature (indicated in the 'Project Features'  column) that I will incorporate in future projects where applicable.
+Each new end-to-end project will feature some new idea or feature (indicated in the 'Project Features'  column) that I will incorporate in future projects where applicable. 
+
+* Click on the `project-name` to view the GitHub repo and code. 
+* Click on the additional link below the project name to view deployed apps where applicable. 
+
 |Project|Type|Domain|Description|Result|Project Features|
 |:--:|:--|:--|:--|:--|:--|
-|[ames-housing](https://github.com/s-mushnoori/ames-housing)|Regression|Real Estate|Predicted house sale price based on ~80 features|Achieved a Kaggle.com leaderboard rank of 369 (top 8%)|<ul><li>OOP</li><li>Feature engineering</li><li>Model ensembling</li></ul>|
-|[pancreatic-cancer-2](https://github.com/s-mushnoori/pancreatic-cancer-2)|Classification|Healthcare (Oncology)|Analyzed data from urine samples to detect pancreatic cancer|Improved classification _recall score_ of cancer samples from _65% to 75%_|Pipelines for model creation|
-|[diagnosing-pancreatic-cancer](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|Classification|Healthcare (Oncology)|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Improved classification _accuracy_ of cancer samples _from 64% to 73%_ and _recall from 50% to 69%_||
+|[`nft-collateral-value`](https://github.com/s-mushnoori/nft-collateral-value)</br>([Webapp](https://nftcvcalculator.herokuapp.com))|Analysis/</br>Dashboard|Finance/</br>Cryptocurrency|Developed a collateral floor price calculator for NFT projects|Created a live dashboard to calculate the collateral floor price of NFTs and deployed to the web|<ul><li>Dashboards (Plotly Dash)</li><li>Web Deployment (Heroku)|
+|[`ames-housing`](https://github.com/s-mushnoori/ames-housing)|Regression|Real Estate|Predicted house sale price based on ~80 features|Achieved a Kaggle.com leaderboard rank of 369 (top 8%)|<ul><li>OOP</li><li>Feature engineering</li><li>Model ensembling</li></ul>|
+|[`pancreatic-cancer-2`](https://github.com/s-mushnoori/pancreatic-cancer-2)|Classification|Healthcare</br>(Oncology)|Analyzed data from urine samples to detect pancreatic cancer|Improved classification _recall score_ of cancer samples from _65% to 75%_|Pipelines for model creation|
+|[`diagnosing-pancreatic-cancer`](https://github.com/s-mushnoori/diagnosing-pancreatic-cancer)|Classification|Healthcare</br>(Oncology)|Visualized and analyzed spectroscopy data from mouse models to classify pre-pancreatic cancer and control samples|Improved classification _accuracy_ of cancer samples _from 64% to 73%_ and _recall from 50% to 69%_||
 ___
 
 ## Learning Projects
