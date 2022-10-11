@@ -7,6 +7,7 @@ ___
 ## Table of Contents
 
 * End-to-End Projects
+  * Predicting Life Expectancy from WHO Data
   * Calculating Collateral Floor Price of NFTs
   * Predicting House Sale Prices 
   * Predicting Pancreatic Cancer from Biomarkers in Urine Samples
