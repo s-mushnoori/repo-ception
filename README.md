@@ -25,7 +25,7 @@ Each new end-to-end project will feature some new idea or feature (indicated in 
 
 |Project|Type|Domain|Description|Result|Project Features|
 |:--:|:--|:--|:--|:--|:--|
-|[`life-expectancy`](https://github.com/s-mushnoori/life-expectancy)|Regression|Public Health|Predicted life expectancy of a country based on historical WHO data|Predicted life expectancy with an R^2 of 0.85|<ul><li>OOP</li><li>Modular code</li><li>Scripting for production environments</li></ul>|
+|[`life-expectancy`](https://github.com/s-mushnoori/life-expectancy)|Regression|Public Health|Predicted life expectancy of a country based on historical WHO data|Improved _prediction accuracy (R^2)_ from _85% to 95%_|<ul><li>OOP</li><li>Modular code</li><li>Scripting for production environments</li></ul>|
 |[`nft-collateral-value`](https://github.com/s-mushnoori/nft-collateral-value)</br></br>([Webapp](https://nftcvcalculator.herokuapp.com))|Analysis/</br>Dashboard|Finance/</br>Cryptocurrency|Developed a collateral floor price calculator for NFT projects|Created a live dashboard to calculate the collateral floor price of NFTs and deployed to the web|<ul><li>Dashboards (_Plotly Dash_)</li><li>Web Deployment (_Heroku_)|
 |[`ames-housing`](https://github.com/s-mushnoori/ames-housing)|Regression|Real Estate|Predicted house sale price based on ~80 features|Achieved a Kaggle.com leaderboard rank of 369 (top 8%)|<ul><li>OOP</li><li>Feature engineering</li><li>Model ensembling</li></ul>|
 |[`pancreatic-cancer-2`](https://github.com/s-mushnoori/pancreatic-cancer-2)|Classification|Healthcare</br>(Oncology)|Analyzed data from urine samples to detect pancreatic cancer|Improved classification _recall score_ of cancer samples from _65% to 75%_|Pipelines for model creation|
